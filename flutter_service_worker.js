@@ -4,10 +4,11 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "b88572e091bdc63ef58f0d17415919ce",
-"index.html": "e34e17411e8149fa47ef2b054868d348",
-"/": "e34e17411e8149fa47ef2b054868d348",
+"index.html": "6486e57c7a8b7011e7344c3bee1cb74e",
+"/": "6486e57c7a8b7011e7344c3bee1cb74e",
 "styles.css": "5eb8efa9d4355761a4e4e6845d9f77c3",
-"main.dart.js": "5b1d4717cb9eb58377378bdf74c6b573",
+"main.dart.js": "bfe91c451b5436bc411e1e3c1997a4d3",
+"flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "favicon.png": "48536ae99acd3e75e9a69e4e20999f54",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -21,7 +22,11 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/assets/gender-fam.json": "106e7e708b9970cccdb1fdf46002e003",
 "assets/assets/102164-baby-loading.json": "952386cbe7a63262e629ab28f83fd4fb",
-"assets/assets/baby-fam.json": "f65f2ce9e7173cc48cca18d670d71b84"
+"assets/assets/baby-fam.json": "f65f2ce9e7173cc48cca18d670d71b84",
+"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
+"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
+"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
+"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62"
 };
 
 // The application shell files that are downloaded before a service worker can
